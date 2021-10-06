@@ -1,4 +1,6 @@
 #camel-banana problem
+#comment added by dilipkallarackal (collaborator)
+
 total: int=int(input('Enter no. of bananas at starting :'))
 distance=int(input('Enter distance you want to cover :'))
 load_capacity=int(input('Enter max load capacity of your camel :'))

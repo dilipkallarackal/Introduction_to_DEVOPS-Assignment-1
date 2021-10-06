@@ -1,5 +1,5 @@
 # Validity of Triangle given sides
-
+#comment by Owner of repo
 # Function definition to check validity
 def is_valid_triangle(a,b,c):
     if a+b>=c and b+c>=a and c+a>=b:
